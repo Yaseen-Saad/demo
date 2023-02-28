@@ -4,6 +4,7 @@
   font-family: "Tilt Neon", cursive;
   font-family: "Ubuntu", sans-serif;
   text-transform: capitalize;
+  font-display: swap;
 }
 
 body {
