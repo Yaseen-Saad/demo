@@ -3,7 +3,9 @@ $color: #2490eb;
 $darkcolor: #14457b;
 $seccolor: #18100f;
 $bgc: #e0f0fd;
-
+img{
+  width: fit-content;
+}
 * {
   box-sizing: border-box;
   font-family: "Tilt Neon", cursive;

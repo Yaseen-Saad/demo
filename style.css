@@ -1,4 +1,9 @@
 @import url("https://fonts.googleapis.com/css2?family=Tilt+Neon&family=Ubuntu:wght@300;400;700&display=swap");
+img {
+  width: -moz-fit-content;
+  width: fit-content;
+}
+
 * {
   box-sizing: border-box;
   font-family: "Tilt Neon", cursive;
