@@ -102,6 +102,7 @@ main .landing h2 {
   color: #2490eb;
 }
 main .landing p {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
   color: #fff;
 }
 main .landing p span {
